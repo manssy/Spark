@@ -1,0 +1,8 @@
+{
+  "csv": "/in/",
+  "pqt": "/parquet/",
+  "pg.user": "postgres",
+  "pg.password": "admin",
+  "pg.schema": "corporate",
+  "pg.url" : "jdbc:postgresql://192.168.56.1:5432/test"
+}
